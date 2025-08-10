@@ -1,0 +1,4 @@
+Buy groceries
+Buy potato
+Buy fish
+Buy spices
